@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-21T19:49:06 IST" name="Default suite" finished-at="2022-09-21T19:49:48 IST" duration-ms="42184">
+  <suite started-at="2022-10-15T07:09:28 IST" name="Default suite" finished-at="2022-10-15T07:09:42 IST" duration-ms="13791">
     <groups>
     </groups>
-    <test started-at="2022-09-21T19:49:06 IST" name="Default test" finished-at="2022-09-21T19:49:48 IST" duration-ms="42184">
-      <class name="synchronization.Test0">
-        <test-method signature="demo()[pri:0, instance:synchronization.Test0@f381794]" started-at="2022-09-21T19:49:06 IST" name="demo" finished-at="2022-09-21T19:49:48 IST" duration-ms="42136" status="PASS">
+    <test started-at="2022-10-15T07:09:28 IST" name="Default test" finished-at="2022-10-15T07:09:42 IST" duration-ms="13791">
+      <class name="chromeOptions.headlessMode">
+        <test-method signature="tc0()[pri:0, instance:chromeOptions.headlessMode@f381794]" started-at="2022-10-15T07:09:28 IST" name="tc0" finished-at="2022-10-15T07:09:42 IST" duration-ms="13728" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- demo -->
-      </class> <!-- synchronization.Test0 -->
+        </test-method> <!-- tc0 -->
+      </class> <!-- chromeOptions.headlessMode -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

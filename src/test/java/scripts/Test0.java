@@ -2,7 +2,7 @@ package scripts;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;
-//changes made in local disc D
+//change 2 made in local disc D
 public class Test0 {
 	
 	@Test

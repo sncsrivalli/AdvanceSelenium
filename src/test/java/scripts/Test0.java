@@ -2,7 +2,10 @@ package scripts;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;
-//change 2 made in local disc D
+
+//changes made in local disc D
+
+>>>>>>> branch 'master' of https://github.com/sncsrivalli/AdvanceSelenium.git
 public class Test0 {
 	
 	@Test
